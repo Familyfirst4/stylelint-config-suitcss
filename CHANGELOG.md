@@ -1,3 +1,19 @@
+# 21.0.0
+
+* Changed: Package is now exported as ESM
+* Changed: Minimum Node.js version is now `18.12.0`
+* Updated: `stylelint` peer dependency to `^16.0.0`
+
+# 20.0.0
+
+* Updated: `stylelint` peer dependency to `^15.0.0`
+
+# 19.0.0
+
+* Removed: Deprecated Stylelint v15 rules
+* Updated: `stylelint` to `15.6.0`
+* Updated: `stylelint-order` to `6.0.3`
+
 # 18.0.0
 
 * Updated: `stylelint-suitcss` to `5.0.0`
